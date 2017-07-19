@@ -25,6 +25,8 @@ import static org.junit.Assert.*;
         public void test(){
             System.out.println("dubbo-consumer服务启动，调用！");
             System.out.println("今天什么天气");
+            System.out.println("有用有用大材小用");
+            System.out.println("有用有用大材小用");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
