@@ -28,6 +28,8 @@ import static org.junit.Assert.*;
             System.out.println("有用有用");
             System.out.println("有用有用");
             System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
