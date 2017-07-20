@@ -30,10 +30,58 @@
       <file leaf-file-name="StartConsumerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="331">
+              <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1500534230301" expanded="true" signature="87780:87897" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87780:87915" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87780:87928" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87780:87943" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87799:87880" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87978:90202" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="87991:90187" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88045:88340" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88064:88325" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88127:88305" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88167:88271" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88188:88249" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88390:88717" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88409:88702" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88504:88682" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88544:88648" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88565:88626" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88768:89033" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88787:89018" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88820:88998" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88860:88964" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="88881:88942" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89076:89382" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89095:89367" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89169:89347" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89209:89313" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89230:89291" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89433:89788" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89452:89773" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89536:89753" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89576:89719" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89597:89697" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89840:90173" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89859:90158" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="89960:90138" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="90000:90104" ph="..." />
+                <marker date="1500534230301" expanded="true" signature="90021:90082" ph="..." />
               </folding>
             </state>
           </provider>
@@ -155,11 +203,14 @@
       <find>zoo</find>
     </findStrings>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../dubboTest" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../dubboTest" value="gitshijicaozuo" />
+        <entry key="$PROJECT_DIR$/../dubboTest" value="ceshifenzhi" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -535,6 +586,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1085,7 +1150,28 @@
       <option name="project" value="LOCAL" />
       <updated>1500532605437</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge branch 'gitshijicaozuo'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500533221659</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533221659</updated>
+    </task>
+    <task id="LOCAL-00023" summary="操作错误">
+      <created>1500533542094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533542094</updated>
+    </task>
+    <task id="LOCAL-00024" summary="青龙白虎">
+      <created>1500533762131</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533762131</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1139,9 +1225,9 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997735" sideWeight="0.5064378" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29445073" sideWeight="0.5064378" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17918456" sideWeight="0.48810872" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997735" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29445073" sideWeight="0.49356222" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2412231" sideWeight="0.7392704" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.038505096" sideWeight="0.49784714" order="3" side_tool="false" content_ui="tabs" />
@@ -1177,7 +1263,10 @@
     <MESSAGE value="综合测试" />
     <MESSAGE value="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
     <MESSAGE value="技术传播&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="技术传播&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="Merge branch 'gitshijicaozuo'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="操作错误" />
+    <MESSAGE value="青龙白虎" />
+    <option name="LAST_COMMIT_MESSAGE" value="青龙白虎" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1207,13 +1296,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/support/RpcUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1563,10 +1645,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500534230301" expanded="true" signature="87780:87897" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87780:87915" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87780:87928" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87780:87943" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87799:87880" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87978:90202" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="87991:90187" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88045:88340" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88064:88325" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88127:88305" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88167:88271" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88188:88249" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88390:88717" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88409:88702" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88504:88682" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88544:88648" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88565:88626" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88768:89033" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88787:89018" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88820:88998" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88860:88964" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="88881:88942" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89076:89382" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89095:89367" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89169:89347" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89209:89313" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89230:89291" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89433:89788" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89452:89773" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89536:89753" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89576:89719" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89597:89697" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89840:90173" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89859:90158" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="89960:90138" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="90000:90104" ph="..." />
+            <marker date="1500534230301" expanded="true" signature="90021:90082" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="331">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

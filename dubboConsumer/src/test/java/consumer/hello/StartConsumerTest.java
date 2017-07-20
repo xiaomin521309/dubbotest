@@ -30,10 +30,11 @@ import static org.junit.Assert.*;
             System.out.println("有用有用");
             System.out.println("有用有用");
             System.out.println("有用有用");
-
             System.out.println("1234567");
             System.out.println("211314");
             System.out.println("12333333333");
+            System.out.println("我是一个兵");
+            System.out.println("操作错误");
             System.out.println("我是一个兵");
             System.out.println("我才实操git");
             System.out.println("这是实际操作");
