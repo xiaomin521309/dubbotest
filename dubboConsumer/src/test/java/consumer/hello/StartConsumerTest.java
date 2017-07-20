@@ -33,6 +33,7 @@ import static org.junit.Assert.*;
             System.out.println("我才实操git");
             System.out.println("这是实际操作");
             System.out.println("52130987654321");
+            System.out.println("爱党爱军爱人民");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
