@@ -42,6 +42,7 @@ import static org.junit.Assert.*;
             System.out.println("有用有用");
             System.out.println("有用有用");
             System.out.println("我才实操git");
+            System.out.println("这是实际操作");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
