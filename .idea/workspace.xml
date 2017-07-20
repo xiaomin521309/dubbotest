@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a856c018-e9f0-4031-ba43-f58ad4ab8f6c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dubboTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubboTest/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" afterPath="$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../dubboTest/out/" />
     <ignored path="$PROJECT_DIR$/../dubboTest/target/" />
@@ -31,10 +30,58 @@
       <file leaf-file-name="StartConsumerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <state relative-caret-position="398">
+              <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1500540407430" expanded="true" signature="98868:98989" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="98868:99007" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="98868:99020" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="98868:99035" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="98891:98972" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99070:101294" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99083:101279" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99137:99432" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99156:99417" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99219:99397" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99259:99363" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99280:99341" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99482:99809" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99501:99794" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99596:99774" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99636:99740" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99657:99718" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99860:100125" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99879:100110" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99912:100090" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99952:100056" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="99973:100034" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100168:100474" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100187:100459" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100261:100439" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100301:100405" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100322:100383" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100525:100880" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100544:100865" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100628:100845" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100668:100811" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100689:100789" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100932:101265" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="100951:101250" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="101052:101230" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="101092:101196" ph="..." />
+                <marker date="1500540407430" expanded="true" signature="101113:101174" ph="..." />
               </folding>
             </state>
           </provider>
@@ -156,6 +203,9 @@
       <find>zoo</find>
     </findStrings>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../dubboTest" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -164,7 +214,10 @@
       </map>
     </option>
     <option name="PUSH_TAGS">
-      <GitPushTagMode />
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
     </option>
   </component>
   <component name="GradleLocalSettings">
@@ -536,11 +589,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dubboTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -985,7 +1052,161 @@
       <option name="project" value="LOCAL" />
       <updated>1500515775768</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500516004071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1500516004071</updated>
+    </task>
+    <task id="LOCAL-00009" summary="实操git">
+      <created>1500516536289</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1500516536289</updated>
+    </task>
+    <task id="LOCAL-00010" summary="实操git">
+      <created>1500517143605</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1500517143605</updated>
+    </task>
+    <task id="LOCAL-00011" summary="技术传播">
+      <created>1500520748507</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1500520748507</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500521660957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1500521660957</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500521732069</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1500521732069</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500521938528</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1500521938528</updated>
+    </task>
+    <task id="LOCAL-00015" summary="操作">
+      <created>1500522138367</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1500522138367</updated>
+    </task>
+    <task id="LOCAL-00016" summary="操作">
+      <created>1500529663676</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1500529663676</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1500530026661</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1500530026661</updated>
+    </task>
+    <task id="LOCAL-00018" summary="综合测试">
+      <created>1500531669022</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1500531669022</updated>
+    </task>
+    <task id="LOCAL-00019" summary="综合测试">
+      <created>1500531809936</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1500531809936</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500532313497</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1500532313497</updated>
+    </task>
+    <task id="LOCAL-00021" summary="技术传播&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500532605437</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1500532605437</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Merge branch 'gitshijicaozuo'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500533221659</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533221659</updated>
+    </task>
+    <task id="LOCAL-00023" summary="操作错误">
+      <created>1500533542094</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533542094</updated>
+    </task>
+    <task id="LOCAL-00024" summary="青龙白虎">
+      <created>1500533762131</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1500533762131</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
+      <created>1500534269704</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1500534269704</updated>
+    </task>
+    <task id="LOCAL-00026" summary="最后一次">
+      <created>1500534731199</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1500534731200</updated>
+    </task>
+    <task id="LOCAL-00027" summary="真的是最后一次">
+      <created>1500534793282</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1500534793282</updated>
+    </task>
+    <task id="LOCAL-00028" summary="真的是最后一次">
+      <created>1500535021880</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1500535021880</updated>
+    </task>
+    <task id="LOCAL-00029" summary="结束了">
+      <created>1500535152677</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1500535152677</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1035,29 +1256,29 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34314835" sideWeight="0.46995708" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20838052" sideWeight="0.50429183" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34314835" sideWeight="0.53004295" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17918456" sideWeight="0.48810872" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20838052" sideWeight="0.49570817" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2412231" sideWeight="0.7392704" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37485844" sideWeight="0.4892704" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.038505096" sideWeight="0.49784714" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26770386" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.109852776" sideWeight="0.7119099" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5141563" sideWeight="0.47854078" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17918456" sideWeight="0.5118913" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42355606" sideWeight="0.49570817" order="5" side_tool="false" content_ui="tabs" />
@@ -1068,7 +1289,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git实际操作" />
-    <option name="LAST_COMMIT_MESSAGE" value="git实际操作" />
+    <MESSAGE value="实操git" />
+    <MESSAGE value="技术传播" />
+    <MESSAGE value="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="操作" />
+    <MESSAGE value="冲突解决" />
+    <MESSAGE value="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="综合测试" />
+    <MESSAGE value="技术传播&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="Merge branch 'gitshijicaozuo'&#10;&#10;# Conflicts:&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="操作错误" />
+    <MESSAGE value="青龙白虎" />
+    <MESSAGE value="Merge branch 'ceshifenzhi'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
+    <MESSAGE value="最后一次" />
+    <MESSAGE value="真的是最后一次" />
+    <MESSAGE value="结束了" />
+    <option name="LAST_COMMIT_MESSAGE" value="结束了" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1098,13 +1334,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/rpc/support/RpcUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="130" column="0" lean-forward="false" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.5.3/dubbo-2.5.3-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1454,10 +1683,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1500540407430" expanded="true" signature="98868:98989" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="98868:99007" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="98868:99020" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="98868:99035" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="98891:98972" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99070:101294" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99083:101279" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99137:99432" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99156:99417" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99219:99397" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99259:99363" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99280:99341" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99482:99809" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99501:99794" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99596:99774" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99636:99740" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99657:99718" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99860:100125" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99879:100110" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99912:100090" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99952:100056" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="99973:100034" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100168:100474" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100187:100459" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100261:100439" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100301:100405" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100322:100383" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100525:100880" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100544:100865" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100628:100845" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100668:100811" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100689:100789" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100932:101265" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="100951:101250" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="101052:101230" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="101092:101196" ph="..." />
+            <marker date="1500540407430" expanded="true" signature="101113:101174" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="398">
+          <caret line="39" column="39" lean-forward="true" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
