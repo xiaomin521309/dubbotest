@@ -39,6 +39,7 @@ import static org.junit.Assert.*;
             System.out.println("命令行");
             System.out.println("terminal测试");
             System.out.println("terminal郁闷");
+            System.out.println("吃葡萄不吐葡萄皮儿");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
