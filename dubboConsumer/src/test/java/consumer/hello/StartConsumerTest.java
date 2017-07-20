@@ -33,6 +33,7 @@ import static org.junit.Assert.*;
             System.out.println("1234567");
             System.out.println("211314");
             System.out.println("12333333333");
+            System.out.println("我是一个兵");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
