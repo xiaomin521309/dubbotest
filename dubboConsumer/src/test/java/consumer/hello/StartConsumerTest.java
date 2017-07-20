@@ -38,6 +38,9 @@ import static org.junit.Assert.*;
             System.out.println("最后一次，太浪费时间了");
             System.out.println("命令行");
             System.out.println("terminal测试");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
