@@ -46,6 +46,7 @@ import static org.junit.Assert.*;
             System.out.println("最后一次，太浪费时间了");
             System.out.println("命令行");
             System.out.println("terminal测试");
+<<<<<<< HEAD
             System.out.println("有用有用");
             System.out.println("有用有用");
             System.out.println("有用有用");
@@ -54,6 +55,9 @@ import static org.junit.Assert.*;
             System.out.println("52130987654321");
             System.out.println("爱党爱军爱人民");
             System.out.println("12333333333");
+=======
+            System.out.println("terminal郁闷");
+>>>>>>> ceshifenzhi
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 

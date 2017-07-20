@@ -30,8 +30,13 @@
       <file leaf-file-name="StartConsumerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="306">
               <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+=======
+            <state relative-caret-position="214">
+              <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+>>>>>>> ceshifenzhi
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,6 +50,7 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
+<<<<<<< HEAD
                 <marker date="1500545700204" expanded="true" signature="99020:99137" ph="..." />
                 <marker date="1500545700204" expanded="true" signature="99020:99155" ph="..." />
                 <marker date="1500545700204" expanded="true" signature="99020:99168" ph="..." />
@@ -83,6 +89,46 @@
                 <marker date="1500545700204" expanded="true" signature="101200:101378" ph="..." />
                 <marker date="1500545700204" expanded="true" signature="101240:101344" ph="..." />
                 <marker date="1500545700204" expanded="true" signature="101261:101322" ph="..." />
+=======
+                <marker date="1500545964684" expanded="true" signature="99290:99407" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99290:99425" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99290:99438" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99290:99453" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99290:101723" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99309:99390" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99488:101712" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99501:101697" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99555:99850" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99574:99835" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99637:99815" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99677:99781" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99698:99759" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99900:100227" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="99919:100212" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100014:100192" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100054:100158" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100075:100136" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100278:100543" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100297:100528" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100330:100508" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100370:100474" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100391:100452" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100586:100892" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100605:100877" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100679:100857" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100719:100823" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100740:100801" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100943:101298" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="100962:101283" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101046:101263" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101086:101229" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101107:101207" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101350:101683" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101369:101668" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101470:101648" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101510:101614" ph="..." />
+                <marker date="1500545964684" expanded="true" signature="101531:101592" ph="..." />
+>>>>>>> ceshifenzhi
               </folding>
             </state>
           </provider>
@@ -1261,12 +1307,20 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39071348" sideWeight="0.50858366" order="0" side_tool="true" content_ui="tabs" />
+=======
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39071348" sideWeight="0.50858366" order="0" side_tool="true" content_ui="tabs" />
+>>>>>>> ceshifenzhi
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17918456" sideWeight="0.48810872" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2412231" sideWeight="0.7392704" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37485844" sideWeight="0.48712447" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39071348" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39071348" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> ceshifenzhi
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
@@ -1689,6 +1743,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <marker date="1500545700204" expanded="true" signature="99020:99137" ph="..." />
             <marker date="1500545700204" expanded="true" signature="99020:99155" ph="..." />
             <marker date="1500545700204" expanded="true" signature="99020:99168" ph="..." />
@@ -1727,14 +1782,59 @@
             <marker date="1500545700204" expanded="true" signature="101200:101378" ph="..." />
             <marker date="1500545700204" expanded="true" signature="101240:101344" ph="..." />
             <marker date="1500545700204" expanded="true" signature="101261:101322" ph="..." />
+=======
+            <marker date="1500545964684" expanded="true" signature="99290:99407" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99290:99425" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99290:99438" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99290:99453" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99290:101723" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99309:99390" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99488:101712" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99501:101697" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99555:99850" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99574:99835" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99637:99815" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99677:99781" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99698:99759" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99900:100227" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="99919:100212" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100014:100192" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100054:100158" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100075:100136" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100278:100543" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100297:100528" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100330:100508" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100370:100474" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100391:100452" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100586:100892" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100605:100877" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100679:100857" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100719:100823" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100740:100801" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100943:101298" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="100962:101283" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101046:101263" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101086:101229" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101107:101207" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101350:101683" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101369:101668" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101470:101648" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101510:101614" ph="..." />
+            <marker date="1500545964684" expanded="true" signature="101531:101592" ph="..." />
+>>>>>>> ceshifenzhi
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="306">
           <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+=======
+        <state relative-caret-position="214">
+          <caret line="40" column="42" lean-forward="false" selection-start-line="40" selection-start-column="42" selection-end-line="40" selection-end-column="42" />
+>>>>>>> ceshifenzhi
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
