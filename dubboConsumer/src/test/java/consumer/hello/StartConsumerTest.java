@@ -36,6 +36,7 @@ import static org.junit.Assert.*;
             System.out.println("我是一个兵");
             System.out.println("操作错误");
             System.out.println("最后一次，太浪费时间了");
+            System.out.println("命令行");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
