@@ -35,7 +35,6 @@ import static org.junit.Assert.*;
             System.out.println("12333333333");
             System.out.println("我是一个兵");
             System.out.println("操作错误");
-<<<<<<< HEAD
             System.out.println("我是一个兵");
             System.out.println("我才实操git");
             System.out.println("这是实际操作");
@@ -44,10 +43,8 @@ import static org.junit.Assert.*;
             System.out.println("青龙白虎");
             System.out.println("最后一次，太浪费时间了");
             System.out.println("真的是最后一次");
-=======
             System.out.println("最后一次，太浪费时间了");
             System.out.println("命令行");
->>>>>>> ceshifenzhi
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
