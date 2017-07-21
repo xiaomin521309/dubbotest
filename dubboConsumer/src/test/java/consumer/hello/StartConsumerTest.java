@@ -65,6 +65,7 @@ import static org.junit.Assert.*;
             System.out.println("需要隐藏的分支");
             System.out.println("需要隐藏的分支2");
             System.out.println("不需要隐藏的分支4");
+            System.out.println("需要隐藏的分支3");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
