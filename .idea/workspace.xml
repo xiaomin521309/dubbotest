@@ -1,9 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a856c018-e9f0-4031-ba43-f58ad4ab8f6c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../dubboTest/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../dubboTest/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a856c018-e9f0-4031-ba43-f58ad4ab8f6c" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../dubboTest/out/" />
     <ignored path="$PROJECT_DIR$/../dubboTest/target/" />
     <ignored path="$PROJECT_DIR$/../dubboTest/dubboConsumer/target/" />
@@ -30,7 +28,7 @@
       <file leaf-file-name="StartConsumerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
+            <state relative-caret-position="537">
               <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -42,46 +40,15 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="39836">
+              <caret line="1732" column="61" lean-forward="false" selection-start-line="1732" selection-start-column="61" selection-end-line="1732" selection-end-column="61" />
               <folding>
-                <marker date="1500603189509" expanded="true" signature="98842:98963" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="98842:98981" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="98842:98994" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="98842:99009" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="98865:98946" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99044:101268" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99057:101253" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99111:99406" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99130:99391" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99193:99371" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99233:99337" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99254:99315" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99456:99783" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99475:99768" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99570:99748" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99610:99714" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99631:99692" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99834:100099" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99853:100084" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99886:100064" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99926:100030" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="99947:100008" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100142:100448" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100161:100433" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100235:100413" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100275:100379" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100296:100357" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100499:100854" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100518:100839" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100602:100819" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100642:100785" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100663:100763" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100906:101239" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="100925:101224" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="101026:101204" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="101066:101170" ph="..." />
-                <marker date="1500603189509" expanded="true" signature="101087:101148" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="98920:98937" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="98920:98955" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="98920:98968" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="98920:98983" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="99018:101242" ph="..." />
+                <marker date="1500603764601" expanded="true" signature="99031:101227" ph="..." />
               </folding>
             </state>
           </provider>
@@ -248,6 +215,7 @@
         <option value="$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/resources/dubbo-consumer.properties" />
         <option value="$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/resources/dubbo-consumer.xml" />
         <option value="$PROJECT_DIR$/../dubboTest/dubboProvider/src/main/resources/dubbo-provider.xml" />
+        <option value="$PROJECT_DIR$/../dubboTest/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java" />
       </list>
     </option>
@@ -1685,53 +1653,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubboTest/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="39836">
+          <caret line="1732" column="61" lean-forward="false" selection-start-line="1732" selection-start-column="61" selection-end-line="1732" selection-end-column="61" />
           <folding>
-            <marker date="1500603189509" expanded="true" signature="98842:98963" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="98842:98981" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="98842:98994" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="98842:99009" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="98865:98946" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99044:101268" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99057:101253" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99111:99406" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99130:99391" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99193:99371" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99233:99337" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99254:99315" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99456:99783" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99475:99768" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99570:99748" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99610:99714" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99631:99692" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99834:100099" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99853:100084" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99886:100064" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99926:100030" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="99947:100008" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100142:100448" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100161:100433" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100235:100413" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100275:100379" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100296:100357" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100499:100854" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100518:100839" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100602:100819" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100642:100785" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100663:100763" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100906:101239" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="100925:101224" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="101026:101204" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="101066:101170" ph="..." />
-            <marker date="1500603189509" expanded="true" signature="101087:101148" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="98920:98937" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="98920:98955" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="98920:98968" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="98920:98983" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="99018:101242" ph="..." />
+            <marker date="1500603764601" expanded="true" signature="99031:101227" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../dubboTest/dubboConsumer/src/test/java/consumer/hello/StartConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
+        <state relative-caret-position="537">
           <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
