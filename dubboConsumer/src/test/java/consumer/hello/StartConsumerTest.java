@@ -42,6 +42,7 @@ import static org.junit.Assert.*;
             System.out.println("吃葡萄不吐葡萄皮儿");
             System.out.println("吃葡萄不吐葡萄皮儿吗");
             System.out.println("吃葡萄不吐葡萄皮儿吗");
+            System.out.println("变化");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
