@@ -45,6 +45,7 @@ import static org.junit.Assert.*;
             System.out.println("变化");
             System.out.println("变化");
             System.out.println("需要隐藏的分支");
+            System.out.println("需要隐藏的分支2");
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
