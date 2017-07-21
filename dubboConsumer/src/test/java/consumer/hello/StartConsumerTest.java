@@ -43,6 +43,7 @@ import static org.junit.Assert.*;
             System.out.println("青龙白虎");
             System.out.println("最后一次，太浪费时间了");
             System.out.println("真的是最后一次");
+<<<<<<< HEAD
             System.out.println("最后一次，太浪费时间了");
             System.out.println("命令行");
             System.out.println("terminal测试");
@@ -61,6 +62,9 @@ import static org.junit.Assert.*;
             System.out.println("变化");
             System.out.println("变化");
             System.out.println("变化");
+=======
+            System.out.println("再次测试");
+>>>>>>> gitshijicaozuo
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
