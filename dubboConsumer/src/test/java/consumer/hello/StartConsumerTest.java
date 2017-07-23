@@ -24,6 +24,23 @@ import static org.junit.Assert.*;
         @Test
         public void test(){
             System.out.println("dubbo-consumer服务启动，调用！");
+<<<<<<< HEAD
+=======
+            System.out.println("今天什么天气");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("有用有用");
+            System.out.println("我才实操git");
+            System.out.println("这是实际操作");
+            System.out.println("52130987654321");
+            System.out.println("爱党爱军爱人民");
+            System.out.println("青龙白虎");
+            System.out.println("真的是最后一次");
+            System.out.println("再次测试");
+            System.out.println("stash");
+>>>>>>> gitshijicaozuo
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
