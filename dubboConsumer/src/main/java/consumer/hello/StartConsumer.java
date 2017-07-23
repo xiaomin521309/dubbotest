@@ -24,8 +24,8 @@ public class StartConsumer {
             System.out.println("吃葡萄！");
             System.out.println("吃葡萄不吐葡萄皮！");
             System.out.println("吃不到葡萄说葡萄酸！");
-
             System.out.println("谈恋爱真累！");
+            System.out.println("吃不到葡萄说葡萄酸的都是什么玩意儿！");
             helloService.sayHello();
 
         }
