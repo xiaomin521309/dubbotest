@@ -24,8 +24,6 @@ import static org.junit.Assert.*;
         @Test
         public void test(){
             System.out.println("dubbo-consumer服务启动，调用！");
-<<<<<<< HEAD
-=======
             System.out.println("今天什么天气");
             System.out.println("有用有用");
             System.out.println("有用有用");
@@ -40,7 +38,6 @@ import static org.junit.Assert.*;
             System.out.println("真的是最后一次");
             System.out.println("再次测试");
             System.out.println("stash");
->>>>>>> gitshijicaozuo
             String shiyan=helloService.sayHello();
             System.out.println(shiyan);
 
