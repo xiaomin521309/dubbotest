@@ -21,6 +21,7 @@ public class StartConsumer {
         @Test
         public void test(){
             System.out.println("dubbo-consumer服务启动，调用！");
+            System.out.println("吃不到葡萄说葡萄酸！");
             helloService.sayHello();
 
         }
