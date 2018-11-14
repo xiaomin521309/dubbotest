@@ -9,7 +9,7 @@
 
     <dubbo:application name="dubbo-consumer" />
     <!--<dubbo:registry  address="multicast://172.28.22.74:1234"172.28.3.21:2181 />-->
-    <dubbo:registry address="zookeeper://192.168.0.100:2181"/>
+    <dubbo:registry address="zookeeper://127.0.0.1:2181"/>
     <!--  <dubbo:registry address="${registry-address}"/>-->
 
       <dubbo:reference id="helloService" interface="hello.service.HelloService" />
