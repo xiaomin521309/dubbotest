@@ -1,1 +1,14 @@
 /.idea/workspace.xml
+*.iws
+*.iml
+*.ipr
+target/
+.settings
+.project
+.classpath
+.externalToolBuilders
+*.class
+*svn/
+.idea/
+*.jar
+~*
