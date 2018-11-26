@@ -24,6 +24,7 @@ public class StartConsumer {
             System.out.println("吃葡萄！");
             System.out.println("吃葡萄不吐葡萄皮！");
             System.out.println("不想谈恋爱！");
+            System.out.println("不想谈恋爱！");
             helloService.sayHello();
 
         }
